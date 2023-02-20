@@ -35,6 +35,4 @@ Jika anda tertarik dengan saya. Silahkan ikuti akun [LinkedIn](https://www.linke
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petelpop&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=petelpop&theme=github)
  
